@@ -1,14 +1,21 @@
-#Meteor-Polymer
+#Meteor-Polymer-Plus
 
 Add the magic of web components and [Polymer](http://polymer-project.org) to [Meteor](http://meteor.com)!
 
 ##About
 This package adds [core-elements and paper-elements](http://www.polymer-project.org/docs/elements/) from Polymer.
 
+Note: This package is a simple extension to the very fine [polymer-elements package](https://github.com/ecwyne/meteor-polymer-elements) provided by ecwyne.
+
+This package builds on the polymer-elements package by adding:
+
+ - Google Maps
+
+
 ##How to Install
 
 ```bash
-meteor add ecwyne:polymer-elements
+meteor add willmitchell:polymer-plus
 ```
 
 ##How to Use

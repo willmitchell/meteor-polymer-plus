@@ -1,8 +1,8 @@
 Package.describe({
-	summary: "Add Polymer-Elements to Meteor",
+	summary: "Add Polymer-Elements and other Google Components to Meteor",
 	version: "1.0.3",
-	git: "http://github.com/ecwyne/meteor-polymer-elements",
-	name: 'ecwyne:polymer-elements'
+	git: "http://github.com/willmitchell/meteor-polymer-plus",
+	name: 'willmitchell:polymer-plus'
 });
 
 Npm.depends({
